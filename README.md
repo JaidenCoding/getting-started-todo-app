@@ -1,3 +1,4 @@
+## CI/CD Pipeline added via GitHub Actions
 # Getting Started Todo App
 
 This project provides a sample todo list application. It demonstrates all of
